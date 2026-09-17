@@ -50,6 +50,3 @@ Customer → Loan Application → KYC → Document Verification → Credit Asses
 - `loan_dashboard.pbix`
 - `BA_Documentation.docx`
 - `loan_dashboard_overview.png`
-
-## Disclaimer
-This is a portfolio case study created for learning and demonstration purposes. It does not represent work performed for a real banking client.
